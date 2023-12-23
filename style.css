@@ -176,6 +176,12 @@ body {
 
 
 }
+#page2 .elem .dets:hover {
+    height: 200px;
+    border-radius: 50px;
+    width: 70%;
+   
+}
 
 #page3 {
     min-height: 120vh;
